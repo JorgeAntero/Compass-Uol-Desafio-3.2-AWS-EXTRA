@@ -11,3 +11,9 @@ Uma "continuação" do [último desafio](https://github.com/JorgeAntero/Compass-
 ### Novamente o primeiro passo foi criar a VPC, porém desta vez, optamos por criá-la pelo método "VPC e muito mais", que gera automáticamente as sub-redes, gateways e todo o resto necessário para o funcionamento dela:  
 
 ![Print zero](/Prints/0.0.png)
+
+---
+## 🚔 2 - Configurando grupos de segurança >
+### O segundo passo também segue como o último desafio, portanto, criamos os grupos de segurança necessários:  
+
+---
