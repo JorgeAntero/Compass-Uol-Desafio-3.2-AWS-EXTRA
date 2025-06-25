@@ -41,7 +41,8 @@ Uma "continuação" do [último desafio](https://github.com/JorgeAntero/Compass-
 ![Print onze](/Prints/4.2.png)  
 ![Print doze](/Prints/4.3.png)  
 
->- A diferença para o último projeto é que aqui precisamos criar uma interface de rede que permita a atribuição de um IP público automáticamente;  
+>- A diferença para o último projeto é que aqui precisamos criar uma interface de rede que permita a atribuição de um IP público automáticamente;
+>- [User Data usado aqui](https://github.com/JorgeAntero/Compass-Uol-Desafio-3.2-AWS-EXTRA/blob/main/User.data)
 
 ---
 ## 🤖 5 - Criando o Auto Scaling >
