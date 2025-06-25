@@ -23,8 +23,22 @@ Uma "continuação" do [último desafio](https://github.com/JorgeAntero/Compass-
 ![Print sexto](/Prints/2.2.png) 
 
 ---
-## 👥 2 - Load Balancer >
-### Para o terceiro passo, criamos o Load Balancer:  
+## 👥 3 - Load Balancer >
+### Então seguimos para a criação do Load Balancer:  
 
-![Print quinto](/Prints/2.1.png)  
-![Print sexto](/Prints/2.2.png) 
+![Print sétimo](/Prints/3.1.png)  
+![Print oitavo](/Prints/3.2.png)  
+
+>- Adicionamos um Listener na porta 8080 para evitar possíveis erros; 
+
+![Print nono](/Prints/3.3.png)  
+
+---
+## 🧱 4 - Modelo de execução >
+### Antes de criar o Auto Scaling, precisamos criar o modelo de execução: 
+
+![Print décimo](/Prints/4.1.png)  
+![Print onze](/Prints/4.2.png)  
+![Print doze](/Prints/4.3.png)  
+
+>- A diferença para o último projeto é que aqui precisamos criar uma interface de rede que permita a atribuição de um IP público automáticamente; 
